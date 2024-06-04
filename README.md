@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miral2525
-- 👀 I’m interested in ... coding cpp c python 
-- 🌱 I’m currently learning ... cpp
+- 👀 I’m interested in ... coding java
+- 🌱 I’m currently learning ... js .net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
